@@ -1,15 +1,15 @@
-<h1>Hi, I'm Jerry! <!-- <br/><a href="https://github.com/JerryB0mb">Programmer</a>, & <a href="https://www.linkedin.com/in/jeremiah-bray-241052188/">Cybersecurity Professional</a> -->
+<h1>Hi, I'm Jerry! <br/>Aspiring <a href="https://github.com/JerryB0mb">Developer</a>, & <a href="https://jeremiahbray.com/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Web Security Homelab on Raspberry Pi</b>
   - [Configure & Deploy a secure Homelab using Docker, Nginx, and Kali](https://jeremiahbray.com/?project=web-security-homelab)
-- <b>Fully Deveoped Honeypot in MS Azure</b>
+- <b>Honeypot in Microsoft Azure</b>
   - [Implement PowerShell script in Azure to extra metadata and forward to an API for geo data on malicious traffic](https://jeremiahbray.com/?project=honeypot-using-azure-soc)
-- <b>PowerShell</b>
-  - [Using PowerShell to Parse Netstat Tool (Coming Soon)]((https://jeremiahbray.com/?project=using-powershell-to-parse-netstat-tool))
-- <b>Python</b>
-  - [Using Python to automate Nmap and parse the output (Coming Soon)](LINKHERE)
+- <b>Nessus Vulnerability Management</b>
+  - [Scanning and Analysis of a virtualized Windows 10 machine (Coming Soon!)](https://github.com/JerryB0mb)
+- <b>Microsoft Active Directory Homelab</b>
+  - [Building Domain & Domain Controllers, Simulating blue/red team activities, and a LOT more. (Coming Soon!)](https://github.com/JerryB0mb)
 
 <h2> 🤳 Connect with me:</h2>
 
