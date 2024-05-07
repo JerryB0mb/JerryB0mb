@@ -7,7 +7,7 @@
 - <b>Honeypot in Microsoft Azure</b>
   - [Implement PowerShell script in Azure to extra metadata and forward to an API for geo data on malicious traffic](https://jeremiahbray.com/?project=honeypot-using-azure-soc)
 - <b>Nessus Vulnerability Management</b>
-  - [Scanning and Analysis of a virtualized Windows 10 machine (Coming Soon!)](https://github.com/JerryB0mb)
+  - [Scanning and Analysis of a virtualized Windows 10 host](https://github.com/JerryB0mb/Nessus)
 - <b>Microsoft Active Directory Homelab</b>
   - [Building Domain & Domain Controllers, Simulating blue/red team activities, and a LOT more. (Coming Soon!)](https://github.com/JerryB0mb)
 
