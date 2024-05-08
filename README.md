@@ -10,6 +10,11 @@
   - [Scanning and Analysis of a virtualized Windows 10 host](https://github.com/JerryB0mb/Nessus)
 - <b>Microsoft Active Directory Homelab</b>
   - [Building Domain & Domain Controllers, Simulating blue/red team activities, and a LOT more. (Coming Soon!)](https://github.com/JerryB0mb)
+ 
+<h2>👨‍💻 Development Projects:</h2>
+
+- <b>Displaying financial data as an interactible dashboard on a Webpage</b>
+  - [Used Python to run a Bokeh server to display financial data](https://github.com/JerryB0mb/financial-dashboard)
 
 <h2> 🤳 Connect with me:</h2>
 
