@@ -5,17 +5,22 @@
 - <b>Web Security Homelab on Raspberry Pi</b>
   - [Configure & Deploy a secure Homelab using Docker, Nginx, and Kali](https://jeremiahbray.com/?project=web-security-homelab)
 - <b>Honeypot in Microsoft Azure</b>
-  - [Implement PowerShell script in Azure to extra metadata and forward to an API for geo data on malicious traffic](https://jeremiahbray.com/?project=honeypot-using-azure-soc)
+  - [Implement PowerShell script in Azure to extra metadata and forward to an API for geo data on malicious traffic](https://github.com/JerryB0mb/Azure)
 - <b>Nessus Vulnerability Management</b>
   - [Scanning and Analysis of a virtualized Windows 10 host](https://github.com/JerryB0mb/Nessus)
 - <b>Microsoft Active Directory Homelab</b>
   - [Building Domain & Domain Controllers, Simulating blue/red team activities, and a LOT more. (Coming Soon!)](https://github.com/JerryB0mb)
- 
+
 <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Displaying financial data as an interactible dashboard on a Webpage</b>
   - [Used Python to run a Bokeh server to display financial data](https://github.com/JerryB0mb/financial-dashboard)
 
+<h2>🔭 I’m currently working on ...</h2>
+
+- <b>A fun Python bot for a Cybersecurity Discord server. </b>
+  - [Collaborating with others in developing a dedicated bot. (Coming Soon!)](https://github.com/JerryB0mb)
+    
 <h2> 🤳 Connect with me:</h2>
 
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
