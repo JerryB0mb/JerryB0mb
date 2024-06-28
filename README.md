@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Web Security Homelab on Raspberry Pi</b>
-  - [Configure & Deploy a secure Homelab using Docker, Nginx, and Kali](https://jeremiahbray.com/?project=web-security-homelab)
+  - [Configure & Deploy a secure Homelab using Docker, Nginx, and Kali](https://github.com/JerryB0mb/Web-security-homelab)
 - <b>Honeypot in Microsoft Azure</b>
   - [Implement PowerShell script in Azure to extra metadata and forward to an API for geo data on malicious traffic](https://github.com/JerryB0mb/Azure)
 - <b>Nessus Vulnerability Management</b>
